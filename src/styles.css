@@ -12,6 +12,7 @@ body {
 /* Overrides Browser Defaults */
 p,
 h3,
+k,
 a,
 ul {
   font-family: 'Shadows Into Light', sans-serif;
